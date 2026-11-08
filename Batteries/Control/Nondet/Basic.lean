@@ -5,7 +5,7 @@ Authors: Kim Morrison
 -/
 module
 
-import Batteries.Tactic.Lint.Misc
+meta import Batteries.Tactic.Lint.Misc
 public import Batteries.Data.MLList.Basic
 public import Lean.Util.MonadBacktrack
 
